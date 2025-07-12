@@ -25,7 +25,7 @@ This app allows users to add, view, and delete tasks with date and time — grea
 
 ## 📸 Screenshots
 
-> Add screenshots --
+> Add screenshots --https://github.com/kajalpa302005/Todo-django-App/blob/main/Screenshot%202025-07-12%20135711.png
 
 ![Screenshot]
 
